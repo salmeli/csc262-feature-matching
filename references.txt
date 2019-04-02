@@ -1,0 +1,14 @@
+Academic honesty certification:
+  Written/online sources used:
+     This lab writeup is under the guidance of Jerod Weinman and
+     https://www.cs.grinnell.edu/~weinman/courses/CSC262/2019S/labs/feature-matching.html
+     The image images of the fountain were also provided by Professor
+     Jerod Weinman. We also used the following textbook: 
+     Richard Szeliski, Computer Vision: Algorithms and Applications,
+     Electronic Draft, 2010.
+  Help obtained
+    Lectures and Q&A with Jerod Weinman
+  Our initials below confirm that the above list of sources
+  is complete AND that I/we have not talked to anyone else
+  (e.g., CSC 262 students) about the solution to this problem
+  Initials:  AM, ES
